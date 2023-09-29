@@ -1,0 +1,28 @@
+*{
+    background-color: rgb(179, 208, 208);
+}
+h2{
+text-align: center;
+color:black;
+font-size: 50px;
+font-weight: bold;
+}
+.container{
+align-items: center;
+padding: 2px 42%;
+display: flex;
+}
+input{
+border-radius: 5px;
+}
+
+#submit{
+background-color: brown;
+
+}
+.container .btn{
+padding-left: 50px;
+}
+li{
+padding: 3px;
+}
